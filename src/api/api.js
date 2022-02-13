@@ -2,6 +2,7 @@ import axios from "axios";
 import env from "react-dotenv";
 export default axios.create({
   baseURL: env.API_URL,
+
   // withCredentials: false,
   // headers: {
   //   "Access-Control-Allow-Origin": "*",
