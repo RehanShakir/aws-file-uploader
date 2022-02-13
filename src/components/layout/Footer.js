@@ -9,7 +9,7 @@ function Footer() {
     <AntFooter style={{ background: "#fafafa" }}>
       <Row className="just">
         <Col xs={24} md={12} lg={12}>
-          <div className="copyright">© Smart Electric Frequency Monitor</div>
+          <div className="copyright">© Files Uplaod And Download</div>
         </Col>
       </Row>
     </AntFooter>

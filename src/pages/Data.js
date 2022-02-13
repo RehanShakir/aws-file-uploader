@@ -224,7 +224,7 @@ const Data = () => {
             <Card
               bordered={false}
               className="criclebox tablespace mb-24"
-              title="Smart Electric Frequency Monitor"
+              title="Files"
             >
               <div className="table-responsive">
                 <Table
